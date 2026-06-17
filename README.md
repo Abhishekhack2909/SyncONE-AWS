@@ -50,7 +50,7 @@ This containerized application can be deployed to AWS using several services:
 │   ├── vite-project/        # Source code for the frontend
 │   └── package.json
 ├── Dockerfile               # Multi-stage build for Prod
-└── README.md                # This documentation
+└── README.md                # documentation
 ```
 
 ---
